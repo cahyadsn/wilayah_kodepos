@@ -14,4 +14,5 @@ Data wilayah sesuai Kepmendagri No 100.1.1-6117 Tahun 2022 bisa di dapat di taut
 Data wilayah vs kodepos ada di db/wilayah_kodepos.sql , mencakup data kodepos 83.763 desa/keluarahn (level 4) di Indonesia
 
 ## Todo
+- Menambahkan data kodepos per pulau di Indoneisa, kode pulau vs kodepos
 - Membuat aplikasi contoh penerapan data kodepos vs kode wilayah Indonesia
