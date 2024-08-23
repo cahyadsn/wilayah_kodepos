@@ -9,7 +9,7 @@ Data wilayah sesuai Kepmendagri No 100.1.1-6117 Tahun 2022 bisa di dapat di taut
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/cahyadwiana)
 
-
+![screenshot](https://github.com/cahyadsn/wilayah_kodepos/blob/main/img/apps.png?raw=true)
 ## Data
 Data wilayah vs kodepos ada di db/wilayah_kodepos.sql , mencakup data kodepos 83.763 desa/keluarahn (level 4) di Indonesia
 - /db/wllayah_kodepos.sql
