@@ -17,6 +17,7 @@ Data wilayah vs kodepos ada di db/wilayah_kodepos.sql , mencakup data kodepos 83
 ## Todo
 - Menambahkan data kodepos per pulau di Indoneisa, kode pulau vs kodepos
 - Membuat aplikasi contoh penerapan data kodepos vs kode wilayah Indonesia
+- verifikasi data
 
 ## Donasi
 - untuk donasi via transfer 
