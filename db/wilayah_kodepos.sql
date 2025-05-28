@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename : db/wilayah_kodepos.sql
 purpose  :
 create   : 2024-08-05 16:55:13
-last edit: 2025-05-28 16:30:41
+last edit: 2025-05-28 16:36:20
 author   : cahya dsn
 ================================================================================
 This program is free software; you can redistribute it and/or modify it under the
