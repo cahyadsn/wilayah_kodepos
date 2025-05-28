@@ -15,9 +15,11 @@ Data wilayah vs kodepos ada di db/wilayah_kodepos.sql , mencakup data kodepos 83
 - /db/wllayah_kodepos.sql
 
 ## CHANGE LOG
+- update kodepos utk desa-desa di kecamatan Wlingi (66184) dan Garum (66181) 25-05-28
 - update kodepos untuk desa-desa di kecamatan Sungai Kakap (78381), Kab. Kubu Raya, Prov. Kalimantan Barat (2502262037)
 
 ## TODO
+- Update data kode wilayah sesuai Kepmendagri No 300.2.2-2138 Tahun 2025
 - Menambahkan data kodepos per pulau di Indoneisa, kode pulau vs kodepos
 - Membuat aplikasi contoh penerapan data kodepos vs kode wilayah Indonesia
 - verifikasi data
