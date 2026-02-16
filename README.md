@@ -26,7 +26,7 @@ Data wilayah vs kodepos ada di db/wilayah_kodepos.sql , mencakup data kodepos 83
 - */db/archive/wllayah_kodepos_2023.sql*  (data kodepos vs kode wilayah sesuai kepmendagri No 100.1.1-6117 Tahun 2022)
 
 ## CHANGE LOG
-- [2026-02-16 14:09:00] menmabhakan tautan terkait
+- [2026-02-16 14:09:00] menambahkan tautan terkait
 - Update README.md 2025-11-12
 - Update data kode wilayah sesuai Kepmendagri No 300.2.2-2138 Tahun 2025 2025-06-30 
 - update kodepos utk desa-desa di kecamatan Wlingi (66184) dan Garum (66181) 2025-05-28
