@@ -11,6 +11,13 @@ Data wilayah sesuai Kepmendagri No 300.2.2-2138 Tahun 2025 bisa di dapat di taut
 
 ![screenshot](https://github.com/cahyadsn/wilayah_kodepos/blob/main/img/apps.png?raw=true)
 
+## TAUTAN TERKAIT
+- Data kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah
+- Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
+- Data boundaries/polygon berdasarkan kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah_boundaries
+- Data logo/lambang berdasarkan kode wilayah adminsitrasi pemerintahan Indonesia (prov,kab/kota) : https://github.com/cahyadsn/wilayah_logo
+
+
 ## DATA
 Data wilayah vs kodepos ada di db/wilayah_kodepos.sql , mencakup data kodepos 83.762 desa/keluarahn (level 4) di Indonesia
 - */db/wllayah_kodepos.sql*
@@ -19,13 +26,13 @@ Data wilayah vs kodepos ada di db/wilayah_kodepos.sql , mencakup data kodepos 83
 - */db/archive/wllayah_kodepos_2023.sql*  (data kodepos vs kode wilayah sesuai kepmendagri No 100.1.1-6117 Tahun 2022)
 
 ## CHANGE LOG
+- [2026-02-16 14:09:00] menmabhakan tautan terkait
 - Update README.md 2025-11-12
 - Update data kode wilayah sesuai Kepmendagri No 300.2.2-2138 Tahun 2025 2025-06-30 
 - update kodepos utk desa-desa di kecamatan Wlingi (66184) dan Garum (66181) 2025-05-28
 - update kodepos untuk desa-desa di kecamatan Sungai Kakap (78381), Kab. Kubu Raya, Prov. Kalimantan Barat (2502262037)
 
 ## TODO
-
 - Menambahkan data kodepos per pulau di Indoneisa, kode pulau vs kodepos
 - Membuat aplikasi contoh penerapan data kodepos vs kode wilayah Indonesia
 - verifikasi data
